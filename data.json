@@ -1,0 +1,62 @@
+[
+    {
+        "url": "https://www.aibase.com/zh/news/11400",
+        "publish_time": "2023年5月15日 14:30",
+        "summary": "谷歌推出新AI模型PaLM 2，在多语言和推理能力上有显著提升。该模型支持超过100种语言，并在医学和数学等领域展现出强大的推理能力。PaLM 2将被整合到谷歌的多个产品中，推动AI技术的广泛应用。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11401",
+        "publish_time": "2024年8月30号 10:03",
+        "summary": "AI癌症治疗迎新机遇，Noetik获4000万美元投资；聚焦空间组学，推动创新药物研发；知名投资者加持，精准肿瘤学迈向未来。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11402",
+        "publish_time": "2024年8月30号 10:26",
+        "summary": "1. 63%企业为防错失AI机会，投资额超879,000美元，担忧成本但更怕员工滥用AI。\n2. 小型语言模型（SLM）受93%决策者青睐，因其更可信，助力企业应对AI挑战。\n3. 尽管信任度高，91%企业遵循政府规定，但仅56%制定可信AI政策，合规监测工具需求增长。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11403",
+        "publish_time": "2024年8月30号 11:15",
+        "summary": "小米小爱音箱迎来大模型升级，多款设备陆续更新；新增文本创作等功能，智能助手更强大；智能家庭屏等更多产品将跟进更新。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11404",
+        "publish_time": "2024年8月30号 11:16",
+        "summary": "Butterflies AI新功能“克隆”走红，一张照片即可生成AI分身，拥有个性背景，体验不同生活。前Snap工程师创立，获480万美元融资，iOS和Android平台可用。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11405",
+        "publish_time": "2024年8月30号 11:18",
+        "summary": "OpenAI AGI安全团队近半数成员离职，引发业界对AI安全性的担忧；团队缩减源于成员信心丧失，OpenAI强调有科学方法解决风险；联合创始人辞职及“超级对齐”团队解散，加剧外界担忧。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11406",
+        "publish_time": "2024年8月30号 11:28",
+        "summary": "美国警察局试用基于ChatGPT的AI系统生成报告，节省时间但引发准确性与偏见担忧；专家呼吁谨慎对待，强调报告准确性对法律判决的重要性。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11407",
+        "publish_time": "2024年8月30号 11:35",
+        "summary": "德国调度中心用AI翻译42种语言，助紧急电话处理更高效；AI未来将提供问题建议和搜索区域计算；虽引入AI，但最终决策仍由人类掌控。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11408",
+        "publish_time": "2024年8月30号 11:52",
+        "summary": "数百开源LLM服务器泄露敏感数据，Flowise工具存在安全漏洞，专家呼吁加强AI服务安全管控。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11409",
+        "publish_time": "2024年8月30号 11:57",
+        "summary": "Freepik推出AI图像生成新模型Mystic，联合Magnific AI打造，能生成高清逼真图像，细节捕捉精准。Mystic结合多模型优势，创作出如猫咪弹钢琴、巨龟背城等奇幻画面，引发行业关注。AI图像生成技术快速发展，Mystic为创意工作者提供强大工具，预示未来视觉艺术新趋势。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11410",
+        "publish_time": "2024年8月30号 14:09",
+        "summary": "AI编程领域再掀融资热潮，Codeium获1.5亿美元融资，估值达12.5亿美元，成为独角兽企业。平台利用代码大模型提高开发效率，新技术助力开发者提升工作效能。AI编程领域投资风起云涌，Cursor、Magic等平台亦获巨额融资。"
+    },
+    {
+        "url": "https://www.aibase.com/zh/news/11411",
+        "publish_time": "2024年8月30号 14:12",
+        "summary": "1. 人大北邮团队推出Ref-AVS技术，AI更懂人类世界，通过多模态融合提升视频理解能力。\n2. Ref-AVS Bench数据集助力研究，展示在视频分析等领域巨大潜力，引发学术及工业界关注。\n3. 该技术突破AI多模态理解瓶颈，为未来人机交互和各行业变革奠定坚实基础。"
+    }
+]
